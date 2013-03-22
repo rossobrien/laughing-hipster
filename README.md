@@ -1,4 +1,4 @@
-laughing-hipster
+Laughing Hipster
 ================
 
 Sublime Text 2 Color Scheme inspired by the feelslikehome Eclipse theme (http://eclipsecolorthemes.org/?view=theme&id=164) and the Sunburst Sublime Text 2 color scheme
