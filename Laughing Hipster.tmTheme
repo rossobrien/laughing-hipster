@@ -7,13 +7,11 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Stanley Rost</string>
-	<key>comment</key>
-	<string>(π) Soryu, 2005</string>
+	<string>Ross O'Brien</string>
 	<key>name</key>
-	<string>Sunburst</string>
+	<string>Laughing Hipster</string>
 	<key>semanticClass</key>
-	<string>theme.dark.sunburst</string>
+	<string>theme.dark.laughing-hipster</string>
 	<key>settings</key>
 	<array>
 		<dict>
