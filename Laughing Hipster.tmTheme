@@ -267,18 +267,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#CDA869</string>
-			</dict>
-		</dict>
-		<dict>
-			<key>name</key>
-			<string>§ css:pseudo-class</string>
-			<key>scope</key>
-			<string>meta.selector.css entity.other.attribute-name.tag.pseudo-class</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#8F9D6A</string>
+				<string>#f8f8f8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -289,7 +278,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#8B98AB</string>
+				<string>#f8f8f8</string>
 			</dict>
 		</dict>
 		<dict>
@@ -300,29 +289,29 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9B703F</string>
+				<string>#f8f8f8</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>§ css property-name:</string>
 			<key>scope</key>
-			<string>support.type.property-name.css</string>
+			<string>meta.property-name.css, support.type.property-name.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#C5AF75</string>
+				<string>#729fcf</string>
 			</dict>
 		</dict>
 		<dict>
 			<key>name</key>
 			<string>§ css property-value;</string>
 			<key>scope</key>
-			<string>meta.property-group support.constant.property-value.css, meta.property-value support.constant.property-value.css</string>
+			<string>meta.property-value.css</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#F9EE98</string>
+				<string>#cccc99</string>
 			</dict>
 		</dict>
 		<dict>
@@ -344,7 +333,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#DD7B3B</string>
+				<string>#cccc99</string>
 			</dict>
 		</dict>
 		<dict>
