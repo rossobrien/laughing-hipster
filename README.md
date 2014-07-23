@@ -1,7 +1,7 @@
 Laughing Hipster
 ================
 
-Sublime Text 2/3 Color Scheme inspired by the feelslikehome Eclipse theme (http://eclipsecolorthemes.org/?view=theme&id=164) and the Sunburst Sublime Text 2 color scheme
+Sublime Text Color Scheme inspired by the feelslikehome Eclipse theme (http://eclipsecolorthemes.org/?view=theme&id=164) and the Sunburst Sublime Text 2 color scheme
 
 Preview (PHP)
 ============
@@ -11,7 +11,7 @@ Preview (PHP)
 Installation
 ============
 
-Find your Sublime Text 2 packages directory. You can do this using the `Preferences -> Browse Packages` menu from within Sublime Text 2.
+Find your Sublime Text packages directory. You can do this using the `Preferences -> Browse Packages` menu from within Sublime Text.
 
 Download the .tmTheme file from this repository and copy it into the `Color Scheme - Default` folder.
 
